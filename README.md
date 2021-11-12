@@ -1,6 +1,5 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# github-fetcher
+Simple web app that searches for a github user and displays some relative detail
 
 ## Start the server
 
